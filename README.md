@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Este ensayo, realizado en el Instituto Tecnológico de Estudios Superiores de Monterrey: Campus Guadalajara, busca profundizar en la singularidad tecnológica, su potencial transformador y las implicaciones éticas que rodean este concepto. Se abordan temas como la autonomía, dignidad, derechos humanos y las posibles transformaciones que la IA superinteligente puede traer a la vida humana.
+Este ensayo, realizado en el Instituto Tecnológico de Estudios Superiores de Monterrey Campus Guadalajara, busca profundizar en la singularidad tecnológica, su potencial transformador y las implicaciones éticas que rodean este concepto. Se abordan temas como la autonomía, dignidad, derechos humanos y las posibles transformaciones que la IA superinteligente puede traer a la vida humana.
 
 ## Objetivo
 
